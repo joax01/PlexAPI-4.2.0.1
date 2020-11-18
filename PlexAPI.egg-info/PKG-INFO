@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: PlexAPI
-Version: 4.2.0
+Version: 4.2.0.1
 Summary: Python bindings for the Plex API.
 Home-page: https://github.com/pkkid/python-plexapi
 Author: Michael Shepanski
